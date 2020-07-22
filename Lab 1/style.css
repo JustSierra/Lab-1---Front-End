@@ -1,0 +1,52 @@
+/* font-family: 'Open Sans', sans-serif; */
+body {
+    background-color: #f9fafc;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header, nav, li, ul, button, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    margin: 20px;
+}
+
+.navBar {
+    margin: 10px;
+}
+
+.navigation {
+    margin: 10px;
+    color: #69696a;
+}
+
+.theBigChirp {
+    margin: 20px;
+}
+
+.button {
+    margin: 20px;
+    border-radius: 25px;
+    width: 90%;
+    height: 50px;
+    background-color:#000;
+    color: #fff;
+    left: 50%;
+    transform: rotateX(-50%);
+}
+
+.leftLine {
+    border-left: 2px solid #69696a;
+    padding: 10px;
+    margin: 20px;
+    color: #69696a;
+}
+
